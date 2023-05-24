@@ -14,6 +14,12 @@
 npm install
 ```
 
+## Usage
+
+```sh
+npm run dev
+```
+
 ## Author
 
 👤 **Paulo Matos**
